@@ -1,6 +1,7 @@
-package q2;
+ package q2;
 
 public class Main {
+//	ÀÌÁøÅ½»ö
 	public static void main(String[] args) {
     int[] array = { 12, 25, 31, 48, 54, 66, 70, 83, 95, 108 };
     int find1 = 83;

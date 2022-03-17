@@ -1,6 +1,7 @@
 package q1;
 
 public class Main {
+//	최대값 / 최소값
   public static void main(String[] args) {
     int[] array = { 10, 55, 23, 2, 79, 101, 16, 82, 30, 45 };
     int max = array[0];
@@ -17,9 +18,9 @@ public class Main {
         minCount = i + 1;
       } 
     } 
-    System.out.println(": " + max);
-    System.out.println(": " + maxCount);
-    System.out.println(": " + min);
-    System.out.println(": " + minCount);
+    System.out.println("최대값 : " + max);
+    System.out.println("위치 : " + maxCount);
+    System.out.println("최소값 : " + min);
+    System.out.println("위치 : " + minCount);
   }
 }
