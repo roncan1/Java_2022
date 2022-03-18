@@ -1,7 +1,5 @@
-package test0223;
+package question_d;
 
-
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
